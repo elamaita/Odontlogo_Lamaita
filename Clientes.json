@@ -1,1 +1,65 @@
-{"Clientes":[{"date":"10/12/2022","address":"Joaquin Suarez 772","name":"Joaquin","last_name":"Goyeche","id":55140602,"telefono":"094137955","email":"joaco@gmail.com"},{"date":"03/12/2022","address":"asdasd","name":"Emilio","last_name":"Lamaita","id":55140601,"telefono":"123123","email":"asdasd"},{"date":"07/01/2023","address":"asdasd","name":"Hernando","last_name":"Hernandez","id":55140605,"telefono":"094173955","email":"hernan@gmail.com"}],"Agendas":[{"motivo":"Dolor en muela izquierda","hora_consulta":"9:00:00","name":"Emilio","last_name":"Lamaita","id":55140601,"fecha_de_consulta":"02/12/2022"},{"motivo":"Carie en la muela derecha","hora_consulta":"12:00:00","name":"Emilio","last_name":"Lamaita","id":55140601,"fecha_de_consulta":"16/12/2022"},{"motivo":"Diente negro","hora_consulta":"11:00:00","name":"Emilio","last_name":"Lamaita","id":55140601,"fecha_de_consulta":"09/12/2022"},{"motivo":"Falta de cepillado","hora_consulta":"10:00:00","name":"Emilio","last_name":"Lamaita","id":55140601,"fecha_de_consulta":"03/01/2023"}]}
+{
+    "Clientes": [
+        {
+            "date": "10/12/2022",
+            "address": "Joaquin Suarez 772",
+            "name": "Joaquin",
+            "last_name": "Goyeche",
+            "id": 264789189,
+            "telefono": "094137955",
+            "email": "joaco@gmail.com"
+        },
+        {
+            "date": "03/12/2022",
+            "address": "asdasd",
+            "name": "Emilio",
+            "last_name": "Lamaita",
+            "id": 264789131,
+            "telefono": "123123",
+            "email": "asdasd"
+        },
+        {
+            "date": "07/01/2023",
+            "address": "asdasd",
+            "name": "Hernando",
+            "last_name": "Hernandez",
+            "id": 264701912,
+            "telefono": "094173955",
+            "email": "hernan@gmail.com"
+        }
+    ],
+    "Agendas": [
+        {
+            "motivo": "Dolor en muela izquierda",
+            "hora_consulta": "9:00:00",
+            "name": "Emilio",
+            "last_name": "Lamaita",
+            "id": 264789131,
+            "fecha_de_consulta": "02/12/2022"
+        },
+        {
+            "motivo": "Carie en la muela derecha",
+            "hora_consulta": "12:00:00",
+            "name": "Emilio",
+            "last_name": "Lamaita",
+            "id": 264789131,
+            "fecha_de_consulta": "16/12/2022"
+        },
+        {
+            "motivo": "Diente negro",
+            "hora_consulta": "11:00:00",
+            "name": "Emilio",
+            "last_name": "Lamaita",
+            "id": 264789131,
+            "fecha_de_consulta": "09/12/2022"
+        },
+        {
+            "motivo": "Falta de cepillado",
+            "hora_consulta": "10:00:00",
+            "name": "Emilio",
+            "last_name": "Lamaita",
+            "id": 264789131,
+            "fecha_de_consulta": "03/01/2023"
+        }
+    ]
+}
